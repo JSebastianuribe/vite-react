@@ -1,20 +1,17 @@
-# React + TypeScript + Vite
+##React + TypeScript + Vite
+Esta plantilla proporciona una configuración mínima para hacer que React funcione en Vite con HMR (Hot Module Replacement) y algunas reglas de ESLint.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aunque este proyecto utiliza React, Vite es compatible con muchos marcos populares de JavaScript. Consulta todos los marcos compatibles.
 
-While this project uses React, Vite supports many popular JS frameworks. [See all the supported frameworks](https://vitejs.dev/guide/#scaffolding-your-first-vite-project).
+##Despliega tu propio proyecto
+Despliega tu propio proyecto de Vite con Vercel.
 
-## Deploy Your Own
 
-Deploy your own Vite project with Vercel.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/vite-react&template=vite-react)
+Ejemplo en vivo: https://vite-react-example.vercel.app
 
-_Live Example: https://vite-react-example.vercel.app_
-
-### Deploying From Your Terminal
-
-You can deploy your new Vite project with a single command from your terminal using [Vercel CLI](https://vercel.com/download):
+##Desplegando desde tu terminal
+Puedes desplegar tu nuevo proyecto de Vite con un solo comando desde tu terminal utilizando Vercel CLI:
 
 ```shell
 $ vercel
